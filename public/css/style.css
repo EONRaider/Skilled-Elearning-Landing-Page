@@ -281,7 +281,7 @@ button:hover {
     .card {
         height: 322px;
         border-radius: 15px;
-        padding: 64px 32px 40px 32px;
+        padding: 64px 32px 40px;
     }
 
     .courses__check-out-card {
@@ -444,7 +444,7 @@ button:hover {
     .hero {
         align-items: center;
         flex-direction: column;
-        margin: 38px 16px 0 16px;
+        margin: 38px 16px 0;
         height: 632px;
         gap: 46px;
     }
@@ -484,7 +484,7 @@ button:hover {
     }
 
     .courses {
-        margin: 66px 16px 0 16px;
+        margin: 66px 16px 0;
     }
 
     .courses-grid {
