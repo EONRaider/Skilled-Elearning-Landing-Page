@@ -203,7 +203,7 @@ button:hover {
     color: var(--clr-pink-800);
 }
 
-@media only screen and (width > 1440px) {
+@media only screen and (width > 1366px) {
     button {
         width: 167px;
         height: 56px;
@@ -308,7 +308,7 @@ button:hover {
     }
 }
 
-@media only screen and (375px < width <= 1440px) {
+@media only screen and (768px <= width <= 1366px) {
     button {
         width: 140px;
         height: 48px;
@@ -413,7 +413,7 @@ button:hover {
     }
 }
 
-@media only screen and (width <= 375px) {
+@media only screen and (width < 768px) {
     button {
         width: 140px;
         height: 48px;
